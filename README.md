@@ -37,27 +37,15 @@ I build industrial-grade software at **Siemens**, focusing on bridging the gap b
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=404chandan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404chandan&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=404chandan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404chandan&layout=compact&theme=tokyonight&hide_border=true" /> -->
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=404chandan&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 🏆 Milestone Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=404chandan&theme=tokyonight&no-bg=true&margin-w=15" />
-</p>
-
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/404chandan/404chandan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
+--- 
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
